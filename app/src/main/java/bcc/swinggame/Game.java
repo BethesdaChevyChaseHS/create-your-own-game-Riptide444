@@ -1,3 +1,4 @@
+package bcc.swinggame;
 import java.awt.Color;
 
 public class Game {
