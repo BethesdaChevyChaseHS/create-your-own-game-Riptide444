@@ -3,7 +3,7 @@
  */
 package bcc.swinggame;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         Game newGame = new Game();
         new MyGui(newGame);
